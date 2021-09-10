@@ -1,0 +1,97 @@
+﻿
+ReflectThis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+All Types:
+ReflectThis.UserManager
+ReflectThis.User
+ReflectThis.UserManager+<>c__DisplayClass3_0
+ReflectThis.UserManager+<>c__DisplayClass4_0
+
+MetaData:
+Name:ReflectThis
+Version:1.0.0.0
+Culture:onbekende taal
+Loaded from GAC?:False
+
+All members of type: ReflectThis.UserManager
+Int32 get_UserCount()
+Boolean Logon(System.String, System.String)
+Boolean LogOff(System.String)
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+Void .ctor()
+Int32 UserCount
+
+All members of type: ReflectThis.User
+System.String get_Username()
+Void set_Username(System.String)
+System.String get_Password()
+Void set_Password(System.String)
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+Void .ctor()
+System.String Username
+System.String Password
+
+All members of type: ReflectThis.UserManager+<>c__DisplayClass3_0
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+Void .ctor()
+System.String username
+
+All members of type: ReflectThis.UserManager+<>c__DisplayClass4_0
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+Void .ctor()
+System.String username
+
+All methods of type: ReflectThis.UserManager
+-->get_UserCount
+-->Logon
+-->LogOff
+-->GetType
+-->ToString
+-->Equals
+-->GetHashCode
+
+All methods of type: ReflectThis.User
+-->get_Username
+-->set_Username
+-->get_Password
+-->set_Password
+-->GetType
+-->ToString
+-->Equals
+-->GetHashCode
+
+All methods of type: ReflectThis.UserManager+<>c__DisplayClass3_0
+-->GetType
+-->ToString
+-->Equals
+-->GetHashCode
+
+All methods of type: ReflectThis.UserManager+<>c__DisplayClass4_0
+-->GetType
+-->ToString
+-->Equals
+-->GetHashCode
+
+All fields of type: ReflectThis.UserManager
+
+All fields of type: ReflectThis.User
+
+All fields of type: ReflectThis.UserManager+<>c__DisplayClass3_0
+-->username
+
+All fields of type: ReflectThis.UserManager+<>c__DisplayClass4_0
+-->username
+
+Invoking the LogOff Method from ReflectThis.DLL:
+False
